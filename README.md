@@ -15,7 +15,7 @@ Interaktywna aplikacja desktopowa do nauki podziału sieci IPv4 metodą VLSM *(V
 - **Losowe ćwiczenia** — 6 wbudowanych zadań o różnym stopniu trudności, losowanych przyciskiem.
 - **Dowolna liczba podsieci** — od 1 do 50 wierszy, regulowana spinboksem.
 - **Pokaż rozwiązanie** — generuje wzorcowy przydział VLSM i wypełnia nim pola.
-- **Wykrywanie nakładania** — zgłasza konflikty adresowe między podsieci.
+- **Wykrywanie nakładania** — zgłasza konflikty adresowe między podsieciami.
 - **Obsługa CIDR** — adres sieci bazowej można wpisać jako `192.168.10.0/24`.
 
 ## Wymagania
